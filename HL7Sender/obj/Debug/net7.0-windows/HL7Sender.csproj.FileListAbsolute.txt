@@ -1,0 +1,17 @@
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Debug\net7.0-windows\HL7Sender.exe
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Debug\net7.0-windows\HL7Sender.deps.json
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Debug\net7.0-windows\HL7Sender.runtimeconfig.json
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Debug\net7.0-windows\HL7Sender.dll
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Debug\net7.0-windows\HL7Sender.pdb
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.csproj.AssemblyReference.cache
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.Form1.resources
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.csproj.GenerateResource.cache
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.AssemblyInfoInputs.cache
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.AssemblyInfo.cs
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.csproj.CoreCompileInputs.cache
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.dll
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\refint\HL7Sender.dll
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.pdb
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\HL7Sender.genruntimeconfig.cache
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\obj\Debug\net7.0-windows\ref\HL7Sender.dll

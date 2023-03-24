@@ -1,0 +1,2 @@
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Release\net7.0-windows\win-x64\app.publish\HL7Sender.pdb
+C:\Daten\Entwicklung\HL7Sender\HL7Sender\bin\Release\net7.0-windows\win-x64\app.publish\HL7Sender.exe

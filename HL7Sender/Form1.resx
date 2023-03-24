@@ -1,0 +1,147 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txtMessage.Text" xml:space="preserve">
+    <value>2023-02-28/10:41:00.58
+MSH|^~\&amp;|SAP-ISH|002^0999|MEDORA|MEDORA|20230228104036||ORM^O01|02023022809403600001|T|2.3.1|||||||
+PID|||0002000160^7^M11||Cotestfall^Test^Cotestfall|Cotestfall|19101010000000|M|||hauptstr. 23^^heidelberg^^69115^DE|||||||||||||||||||
+PV1||I|00291002^02910021^^00291000|||||0000000054^Homuth^Johann-Carl^^^^Dr.med.|||||||n^00||||0050000505^0^M11|||||||||||||||||||||||||19991112143527||||||00004||
+ORC|NW|10045604^KO_DC101A||0000040926|IP||^^0000^00000000^00000000^000||20230228104036|||0000019591^Demo-Arzt^Daniel||115522552211 / 8050||Test Fragestellung Studie^Test Fragestellung Studie||52C101|
+OBR||10045604^0000298559||952SAMPBC^Sampling Broad Consent^01|||20230228104035||||| CAVE, Träger eines sonstigen MRE|Test Kurzanmnese Studie|||0000019591^Demo-Arzt^Daniel|115522552211 / 8050||||||||||^^^20230228104035||||||||||||||||
+ZZD|CAVE ,  - Träger eines sonstigen MRE , |Test Kurzanmnese Studie|Test Diagnose|Diagnose:alt^Diagnose: Sonstiges:^Aufklärung erfolgt:Ja^Aufklärung erfolgt:Primärmaterial: EDTA-Monovette (PB) EDTA-Monovette (KM) Heparin-Monovette (PB) Heparin-Monovette (KM) Serum-Monovette (PB BD Vacutainer CPT System (PB) PAXgene Blood ccfDNA System (PB) Urin-Monovette Liquor Fett Sonstiges:^111100 Uhr^Therapiezeitpunkt:Remissionskontrolle|||
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AAPAAAADwAAAA///gAf///////////////8=
+</value>
+  </data>
+</root>
