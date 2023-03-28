@@ -19,24 +19,23 @@ namespace HL7Sender
             {
                 string ipAdress = txtAddress.Text;
                 int port = int.Parse(txtPort.Text);
-                string messageText = txtMessage.Text;
-
-                txtLog.Text += "CONNECTING\n";
-
-                messageText = (char)11 + messageText + (char)28 + (char)13;
+                string messageText = txtMessage.Text.Replace("\r\n", "\r").Replace("\n", "\r");
+                //messageText = DateTime.Now.ToString("yyyy-MM-dd/HH:mm:ss.ff") + "\r\n" + messageText;
+                
+                // put message in frame
+                messageText = (char)11 + messageText + "\r\n" + (char)28 + (char)13;
                 var byteMessage = Encoding.UTF8.GetBytes(messageText);
 
+                txtLog.Text += "Verbindungsaufbau...\n";
                 TcpClient client = new(ipAdress, port);
                 NetworkStream stream = client.GetStream();
-
                 byte[] ACK = new byte[client.ReceiveBufferSize + 1];
                
-
                 stream.Write(byteMessage, 0, byteMessage.Length);
                 stream.Read(ACK, 0, ACK.Length);
                 ++count;
 
-                txtLog.Text += "MESSAGE: " + count + "\n";
+                txtLog.Text += "Nachricht: " + count + "\n";
 
                 string HL7Clean = MyRegex().Replace(messageText, string.Empty);
                 txtLog.Text += HL7Clean + "\nACK\n";
